@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-20T11:09:52 AST" name="OrangeHRM Test Suite" finished-at="2025-11-20T11:11:32 AST" duration-ms="100712">
+    <groups>
+    </groups>
+    <test started-at="2025-11-20T11:09:52 AST" name="OrangeHRM Functional Tests" finished-at="2025-11-20T11:11:32 AST" duration-ms="100712">
+      <class name="com.orangeHRM.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRM.test.HomePageTest@7b324585]" started-at="2025-11-20T11:10:50 AST" name="setup" finished-at="2025-11-20T11:11:06 AST" duration-ms="15650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:com.orangeHRM.test.HomePageTest@7b324585]" started-at="2025-11-20T11:11:06 AST" name="setupPages" finished-at="2025-11-20T11:11:06 AST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPages -->
+        <test-method signature="verifyOrangeHRMLogo()[pri:0, instance:com.orangeHRM.test.HomePageTest@7b324585]" started-at="2025-11-20T11:11:06 AST" name="verifyOrangeHRMLogo" finished-at="2025-11-20T11:11:32 AST" duration-ms="26390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrangeHRMLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.test.HomePageTest@7b324585]" started-at="2025-11-20T11:11:32 AST" name="tearDown" finished-at="2025-11-20T11:11:32 AST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangeHRM.test.HomePageTest -->
+      <class name="com.orangeHRM.test.LoginPageTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:09:52 AST" name="loadConfig" finished-at="2025-11-20T11:09:52 AST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:09:52 AST" name="setup" finished-at="2025-11-20T11:10:11 AST" duration-ms="19353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:11 AST" name="setupPages" finished-at="2025-11-20T11:10:11 AST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPages -->
+        <test-method signature="verifyInvalidLogin()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:11 AST" name="verifyInvalidLogin" finished-at="2025-11-20T11:10:19 AST" duration-ms="7897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:19 AST" name="tearDown" finished-at="2025-11-20T11:10:19 AST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:19 AST" name="setup" finished-at="2025-11-20T11:10:35 AST" duration-ms="15675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPages()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:35 AST" name="setupPages" finished-at="2025-11-20T11:10:35 AST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPages -->
+        <test-method signature="verifyLoginPage()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:35 AST" name="verifyLoginPage" finished-at="2025-11-20T11:10:50 AST" duration-ms="15120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangeHRM.test.LoginPageTest@4c4d27c8]" started-at="2025-11-20T11:10:50 AST" name="tearDown" finished-at="2025-11-20T11:10:50 AST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangeHRM.test.LoginPageTest -->
+    </test> <!-- OrangeHRM Functional Tests -->
+  </suite> <!-- OrangeHRM Test Suite -->
+</testng-results>

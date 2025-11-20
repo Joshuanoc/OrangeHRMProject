@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="OrangeHRM Test Suite" parallel="tests" thread-count="3">
+
+	<test name="OrangeHRM Functional Tests">
+		<classes>
+		    <class name="com.orangeHRM.test.LoginPageTest"/>
+		    <class name="com.orangeHRM.test.HomePageTest"/>
+		</classes>
+	</test>
+</suite>

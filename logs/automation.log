@@ -1,0 +1,9 @@
+2025-11-20 11:11:01 [TestNG-tests-1] INFO  com.orangehrm.base.BaseClass - Chrome Browser Launched.
+2025-11-20 11:11:06 [TestNG-tests-1] INFO  com.orangehrm.base.BaseClass - WebDriver Initialized and Browser Maximized.
+2025-11-20 11:11:06 [TestNG-tests-1] INFO  com.orangehrm.actiondriver.ActionDriver - WebDriver instance is created and WebDriverWait initialized
+2025-11-20 11:11:06 [TestNG-tests-1] INFO  com.orangehrm.base.BaseClass - ActionDriver initialized for thread: 22
+2025-11-20 11:11:09 [TestNG-tests-1] INFO  com.orangehrm.actiondriver.ActionDriver - Entered text: Admin
+2025-11-20 11:11:10 [TestNG-tests-1] INFO  com.orangehrm.actiondriver.ActionDriver - Entered text: admin123
+2025-11-20 11:11:10 [TestNG-tests-1] INFO  com.orangehrm.actiondriver.ActionDriver - Clicked an element
+2025-11-20 11:11:32 [TestNG-tests-1] INFO  com.orangehrm.actiondriver.ActionDriver - Element is displayed
+2025-11-20 11:11:32 [TestNG-tests-1] INFO  com.orangehrm.base.BaseClass - Browser closed and WebDriver session ended.
